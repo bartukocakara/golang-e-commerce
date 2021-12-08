@@ -1,0 +1,3 @@
+```
+gin run main.go
+```
